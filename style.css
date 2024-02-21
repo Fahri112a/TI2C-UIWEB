@@ -1,0 +1,39 @@
+.container {
+    max-width:  800px;
+    margin: 0 auto;
+    text-align: center;
+    padding:  20px;
+    font-family: Arial, sans-serif;
+    background-image: url("pngtree-geometric-minimalistic-gradient-technology-ppt-background-background-image_55442.jpg");
+    background-size: center;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-top:  0;
+  }
+  
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  .info {
+    margin-top:  20px;
+  }
+  
+  h2 {
+    font-size:  20px;
+    
+  }
+  
+  ul,
+  ol {
+    margin:  0;
+    padding:  0  0  0  20px;
+  }
+  
+  li {
+    margin:  5px  0;
+  }
